@@ -1,0 +1,7 @@
+langchain[basic]
+
+youtube-transcript-api
+langchain-community 
+langchain-openai
+tiktoken 
+python-dotenv
